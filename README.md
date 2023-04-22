@@ -1,1 +1,1 @@
-# steganograhy_algorithms
+# steganography_algorithms
